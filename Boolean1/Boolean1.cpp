@@ -9,5 +9,5 @@ int main()
 	if (a > 0) { cout << "positiv\n"; }
 	else(cout << "negativ");
 
-
+	return 0;
 }

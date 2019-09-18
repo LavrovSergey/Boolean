@@ -12,5 +12,5 @@ int main()
 	if (a>2&& b<=3) { cout << "fair"; }
 	else(cout << "unfair");
 
-
+	return 0;
 }
